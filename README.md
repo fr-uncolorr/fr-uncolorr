@@ -1,4 +1,7 @@
 ```
+CONWAY'S GAME OF LIFE                                                                    TIME 99 | POPULATION 25 | GAME 01
+```
+```
 ██                                                                                                                      ██
 ██                                                                                                                      ██
 ██                                                                                                                      ██
