@@ -1,0 +1,31 @@
+name: Update Game of Life
+
+on:
+  schedule:
+    - cron: "0 * * * *" # A cada hora
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: node scripts/update-game.js
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "fr-uncolorr/GameOfLife-Bot"
+          git config --global user.email "gameoflife-bot@fr-uncolorr.github.io"
+
+          git add .
+          git diff --cached --quiet || git commit -m "Update Game of Life"
+          git push

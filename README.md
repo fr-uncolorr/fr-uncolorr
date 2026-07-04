@@ -1,34 +1,5 @@
 ```
-CONWAY'S GAME OF LIFE | TIME 99 | POPULATION 25 | GAME 01                                                                 
-```
-```
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                            ██  ██                                                    ██
-██                                                        ██          ██                                                ██
-██                                                          ██████████                                                  ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-██                                                                                                                      ██
-```
-
+![Conway's Game of Life](state.svg)
 
 <!--
 **fr-uncolorr/fr-uncolorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
