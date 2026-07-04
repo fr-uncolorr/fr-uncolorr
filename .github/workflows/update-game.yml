@@ -2,7 +2,7 @@ name: Update Game of Life
 
 on:
   schedule:
-    - cron: "0 * * * *" # A cada hora
+    - cron: "*/5 * * * *" # each 5 minutes
   workflow_dispatch:
 
 permissions:
