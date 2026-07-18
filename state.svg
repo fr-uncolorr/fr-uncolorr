@@ -40,7 +40,7 @@
 
 <rect class="background" width="100%" height="100%"/>
 
-<text class="text" x="20" y="30" xml:space="preserve">Conway&#039;s Game of Life | Generation: 87 | Population: 18 | Games: 2</text>
+<text class="text" x="20" y="30" xml:space="preserve">Conway&#039;s Game of Life | Generation: 0 | Population: 292 | Games: 3</text>
 <text class="text" x="20" y="70" xml:space="preserve">                                                                </text>
 <text class="text" x="20" y="90" xml:space="preserve">                                                                </text>
 <text class="text" x="20" y="110" xml:space="preserve">                                                                </text>
@@ -64,7 +64,7 @@
 <text class="text" x="20" y="470" xml:space="preserve">                ██  ██                                          </text>
 <text class="text" x="20" y="490" xml:space="preserve">                  ██                                            </text>
 <text class="text" x="20" y="510" xml:space="preserve">                                                                </text>
-<text class="text" x="20" y="530" xml:space="preserve">                                                                </text>
-<text class="text" x="20" y="550" xml:space="preserve">                                                      ██████    </text>
-<text class="text" x="20" y="570" xml:space="preserve">                                                                </text>
+<text class="text" x="20" y="530" xml:space="preserve">                                                        ██      </text>
+<text class="text" x="20" y="550" xml:space="preserve">                                                        ██      </text>
+<text class="text" x="20" y="570" xml:space="preserve">                                                        ██      </text>
 </svg>
