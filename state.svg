@@ -40,16 +40,16 @@
 
 <rect class="background" width="100%" height="100%"/>
 
-<text class="text" x="20" y="30" xml:space="preserve">Conway&#039;s Game of Life | Generation: 117 | Population: 53 | Games: 5</text>
-<text class="text" x="20" y="70" xml:space="preserve">                                                          ████  </text>
-<text class="text" x="20" y="90" xml:space="preserve">              ██  ██████                                  ████  </text>
-<text class="text" x="20" y="110" xml:space="preserve">      ██    ██                                                  </text>
-<text class="text" x="20" y="130" xml:space="preserve">      ████            ██    ████                  ████          </text>
-<text class="text" x="20" y="150" xml:space="preserve">        ██    ████████      ████                  ██  ██        </text>
-<text class="text" x="20" y="170" xml:space="preserve">      ██  ██  ██                                    ██          </text>
-<text class="text" x="20" y="190" xml:space="preserve">      ██  ██    ████                                            </text>
-<text class="text" x="20" y="210" xml:space="preserve">      ██      ██████                                            </text>
-<text class="text" x="20" y="230" xml:space="preserve">            ██                                                  </text>
+<text class="text" x="20" y="30" xml:space="preserve">Conway&#039;s Game of Life | Generation: 118 | Population: 59 | Games: 5</text>
+<text class="text" x="20" y="70" xml:space="preserve">                    ██                                    ████  </text>
+<text class="text" x="20" y="90" xml:space="preserve">                    ██                                    ████  </text>
+<text class="text" x="20" y="110" xml:space="preserve">      ████            ██                                        </text>
+<text class="text" x="20" y="130" xml:space="preserve">      ██████  ████████      ████                  ████          </text>
+<text class="text" x="20" y="150" xml:space="preserve">          ████████████      ████                  ██  ██        </text>
+<text class="text" x="20" y="170" xml:space="preserve">      ██  ██  ██    ██                              ██          </text>
+<text class="text" x="20" y="190" xml:space="preserve">    ████          ██                                            </text>
+<text class="text" x="20" y="210" xml:space="preserve">        ██  ████  ██                                            </text>
+<text class="text" x="20" y="230" xml:space="preserve">          ████  ██                                              </text>
 <text class="text" x="20" y="250" xml:space="preserve">          ████                                                  </text>
 <text class="text" x="20" y="270" xml:space="preserve">                                                                </text>
 <text class="text" x="20" y="290" xml:space="preserve">                                                                </text>
