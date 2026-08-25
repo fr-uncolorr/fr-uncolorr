@@ -40,7 +40,7 @@
 
 <rect class="background" width="100%" height="100%"/>
 
-<text class="text" x="20" y="30" xml:space="preserve">Conway&#039;s Game of Life | Generation: 144 | Population: 35 | Games: 6</text>
+<text class="text" x="20" y="30" xml:space="preserve">Conway&#039;s Game of Life | Generation: 0 | Population: 279 | Games: 7</text>
 <text class="text" x="20" y="70" xml:space="preserve">                            ████                                </text>
 <text class="text" x="20" y="90" xml:space="preserve">                            ████      ████                      </text>
 <text class="text" x="20" y="110" xml:space="preserve">                                    ██  ██                      </text>
